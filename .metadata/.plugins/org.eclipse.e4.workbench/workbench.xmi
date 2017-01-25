@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_j0uT8NbSEea0TLSPhf-33A" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_j0uT8dbSEea0TLSPhf-33A" bindingContexts="_j0uT89bSEea0TLSPhf-33A">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;com.aptana.editor.js&quot; name=&quot;contact_me.js&quot; tooltip=&quot;C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\js\contact_me.js&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/js/contact_me.js&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;com.aptana.editor.js&quot; name=&quot;jqBootstrapValidation.js&quot; tooltip=&quot;C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\js\jqBootstrapValidation.js&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/js/jqBootstrapValidation.js&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;com.aptana.editor.html&quot; name=&quot;index.html&quot; tooltip=&quot;C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\index.html&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/index.html&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;com.aptana.editor.php&quot; name=&quot;contact_me.php&quot; tooltip=&quot;C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\mail\contact_me.php&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/mail/contact_me.php&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;com.aptana.editor.sass&quot; name=&quot;variables.less&quot; tooltip=&quot;C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\less\variables.less&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/less/variables.less&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;com.aptana.editor.css&quot; name=&quot;variables.css&quot; tooltip=&quot;C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\css\variables.css&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/css/variables.css&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;com.aptana.editor.js&quot; name=&quot;freelancer.js&quot; tooltip=&quot;C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\js\freelancer.js&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/js/freelancer.js&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;com.aptana.editor.sass&quot; name=&quot;mixins.less&quot; tooltip=&quot;C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\less\mixins.less&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/less/mixins.less&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;com.aptana.editor.sass&quot; name=&quot;freelancer.less&quot; tooltip=&quot;C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\less\freelancer.less&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/less/freelancer.less&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;com.aptana.editor.js&quot; name=&quot;contact_me.js&quot; tooltip=&quot;E:\Uchronione przed formatem SSD\Desktop\IX semestr\Aplikacje Internetowe\PRz Aplikacje Internetowe resources\startbootstrap-freelancer-gh-pages\js\contact_me.js&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/E:/Uchronione%20przed%20formatem%20SSD/Desktop/IX%20semestr/Aplikacje%20Internetowe/PRz%20Aplikacje%20Internetowe%20resources/startbootstrap-freelancer-gh-pages/js/contact_me.js&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;com.aptana.editor.js&quot; name=&quot;contact_me.js&quot; tooltip=&quot;C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\js\contact_me.js&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/js/contact_me.js&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;com.aptana.editor.js&quot; name=&quot;jqBootstrapValidation.js&quot; tooltip=&quot;C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\js\jqBootstrapValidation.js&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/js/jqBootstrapValidation.js&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;com.aptana.editor.html&quot; name=&quot;index.html&quot; tooltip=&quot;C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\index.html&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/index.html&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;com.aptana.editor.php&quot; name=&quot;contact_me.php&quot; tooltip=&quot;C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\mail\contact_me.php&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/mail/contact_me.php&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;com.aptana.editor.sass&quot; name=&quot;variables.less&quot; tooltip=&quot;C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\less\variables.less&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/less/variables.less&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;com.aptana.editor.css&quot; name=&quot;variables.css&quot; tooltip=&quot;C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\css\variables.css&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/css/variables.css&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;com.aptana.editor.js&quot; name=&quot;freelancer.js&quot; tooltip=&quot;C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\js\freelancer.js&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/js/freelancer.js&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;com.aptana.editor.sass&quot; name=&quot;mixins.less&quot; tooltip=&quot;C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\less\mixins.less&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/less/mixins.less&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;com.aptana.editor.sass&quot; name=&quot;freelancer.less&quot; tooltip=&quot;C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\less\freelancer.less&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/less/freelancer.less&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_j0uT8dbSEea0TLSPhf-33A" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_kGHl8NbSEea0TLSPhf-33A" label="%trimmedwindow.label.eclipseSDK" x="1581" y="-321" width="1200" height="780">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_j0uT8dbSEea0TLSPhf-33A" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_kGHl8NbSEea0TLSPhf-33A" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1200" height="780">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
@@ -21,36 +21,35 @@
           <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo</tags>
           <tags>persp.actionSet:org.eclipse.ui.actionSet.keyBindings</tags>
           <tags>persp.actionSet:org.eclipse.ui.actionSet.openFiles</tags>
-          <tags>persp.viewSC:com.aptana.browser.views.webbrowser</tags>
           <tags>persp.actionSet:com.aptana.editor.common.presentation</tags>
-          <tags>persp.newWizSC:com.aptana.editor.php.NewPHPProjectWizard</tags>
-          <tags>persp.newWizSC:com.aptana.ui.wizards.NewWebProject</tags>
           <tags>persp.actionSet:org.eclipse.debug.ui.launchActionSet</tags>
           <tags>persp.actionSet:org.eclipse.debug.ui.breakpointActionSet</tags>
           <tags>persp.actionSet:com.aptana.js.debug.ui.actionSet</tags>
-          <tags>persp.perspSC:org.eclipse.debug.ui.DebugPerspective</tags>
-          <tags>persp.newWizSC:com.aptana.ruby.core.ui.rubyProjectWizard</tags>
-          <tags>persp.viewSC:org.eclipse.ui.navigator.ProjectExplorer</tags>
-          <tags>persp.viewSC:com.aptana.ui.io.remoteview</tags>
-          <tags>persp.viewSC:org.eclipse.ui.views.ContentOutline</tags>
-          <tags>persp.viewSC:com.aptana.samples.ui.SamplesView</tags>
-          <tags>persp.viewSC:com.aptana.snippets.ui.views.SnippetsView</tags>
-          <tags>persp.viewSC:com.aptana.terminal.views.terminal</tags>
-          <tags>persp.viewSC:org.eclipse.ui.console.ConsoleView</tags>
-          <tags>persp.viewSC:org.eclipse.pde.runtime.LogView</tags>
-          <tags>persp.viewSC:org.eclipse.ui.views.ProblemView</tags>
-          <tags>persp.viewSC:org.eclipse.ui.views.TaskList</tags>
-          <tags>persp.newWizSC:com.aptana.ui.wizards.new.file</tags>
-          <tags>persp.newWizSC:org.eclipse.ui.wizards.new.folder</tags>
-          <tags>persp.newWizSC:org.eclipse.ui.editors.wizards.UntitledTextFileWizard</tags>
           <tags>persp.actionSet:org.eclipse.ui.NavigateActionSet</tags>
           <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.presentation</tags>
           <tags>persp.actionSet:com.aptana.ui.globalActionSet</tags>
           <tags>persp.actionSet:com.aptana.terminal.actionSet</tags>
           <tags>persp.showIn:org.eclipse.ui.navigator.ProjectExplorer</tags>
-          <tags>persp.viewSC:com.aptana.webserver.ui.view</tags>
-          <tags>persp.viewSC:com.aptana.explorer.view</tags>
+          <tags>persp.newWizSC:com.aptana.ruby.core.ui.rubyProjectWizard</tags>
+          <tags>persp.newWizSC:com.aptana.ui.wizards.new.file</tags>
+          <tags>persp.newWizSC:com.aptana.editor.php.NewPHPProjectWizard</tags>
+          <tags>persp.newWizSC:com.aptana.ui.wizards.NewWebProject</tags>
+          <tags>persp.newWizSC:org.eclipse.ui.editors.wizards.UntitledTextFileWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.ui.wizards.new.folder</tags>
           <tags>persp.newWizSC:org.radrails.rails.ui.projectWizard</tags>
+          <tags>persp.perspSC:org.eclipse.debug.ui.DebugPerspective</tags>
+          <tags>persp.viewSC:org.eclipse.ui.console.ConsoleView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.TaskList</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ProblemView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.navigator.ProjectExplorer</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ContentOutline</tags>
+          <tags>persp.viewSC:com.aptana.browser.views.webbrowser</tags>
+          <tags>persp.viewSC:com.aptana.explorer.view</tags>
+          <tags>persp.viewSC:com.aptana.samples.ui.SamplesView</tags>
+          <tags>persp.viewSC:com.aptana.terminal.views.terminal</tags>
+          <tags>persp.viewSC:com.aptana.ui.io.remoteview</tags>
+          <tags>persp.viewSC:com.aptana.webserver.ui.view</tags>
+          <tags>persp.viewSC:com.aptana.snippets.ui.views.SnippetsView</tags>
           <children xsi:type="basic:PartSashContainer" xmi:id="_kNdkEdbSEea0TLSPhf-33A" selectedElement="_kNdkHdbSEea0TLSPhf-33A" horizontal="true">
             <children xsi:type="basic:PartSashContainer" xmi:id="_kNdkEtbSEea0TLSPhf-33A" containerData="2000" selectedElement="_kNdkE9bSEea0TLSPhf-33A">
               <children xsi:type="basic:PartStack" xmi:id="_kNdkE9bSEea0TLSPhf-33A" elementId="left" containerData="7500" selectedElement="_kNdkFNbSEea0TLSPhf-33A">
@@ -68,9 +67,9 @@
                 <children xsi:type="advanced:Placeholder" xmi:id="_kNdkHNbSEea0TLSPhf-33A" elementId="com.aptana.snippets.ui.views.SnippetsView" ref="_kNZ5sNbSEea0TLSPhf-33A"/>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_kNdkHdbSEea0TLSPhf-33A" containerData="8000" selectedElement="_kNdkHtbSEea0TLSPhf-33A">
-              <children xsi:type="advanced:Placeholder" xmi:id="_kNdkHtbSEea0TLSPhf-33A" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_kM-b4NbSEea0TLSPhf-33A"/>
-              <children xsi:type="basic:PartStack" xmi:id="_kNdkH9bSEea0TLSPhf-33A" elementId="terminalArea" containerData="2500" selectedElement="_kNdkINbSEea0TLSPhf-33A">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_kNdkHdbSEea0TLSPhf-33A" containerData="8000" selectedElement="_kNdkH9bSEea0TLSPhf-33A">
+              <children xsi:type="advanced:Placeholder" xmi:id="_kNdkHtbSEea0TLSPhf-33A" elementId="org.eclipse.ui.editorss" containerData="8980" ref="_kM-b4NbSEea0TLSPhf-33A"/>
+              <children xsi:type="basic:PartStack" xmi:id="_kNdkH9bSEea0TLSPhf-33A" elementId="terminalArea" containerData="1020" selectedElement="_kNdkINbSEea0TLSPhf-33A">
                 <tags>newtablook</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_kNdkINbSEea0TLSPhf-33A" elementId="org.eclipse.ui.console.ConsoleView" ref="_kNQvwtbSEea0TLSPhf-33A"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_kNdkIdbSEea0TLSPhf-33A" elementId="com.aptana.terminal.views.terminal:*" toBeRendered="false" ref="_kNR94NbSEea0TLSPhf-33A"/>
@@ -100,55 +99,65 @@
       <tags>View</tags>
       <tags>categoryTag:Help</tags>
     </sharedElements>
-    <sharedElements xsi:type="advanced:Area" xmi:id="_kM-b4NbSEea0TLSPhf-33A" elementId="org.eclipse.ui.editorss" selectedElement="_kM-b4dbSEea0TLSPhf-33A">
-      <children xsi:type="basic:PartStack" xmi:id="_kM-b4dbSEea0TLSPhf-33A" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_ouPnoNbSEea0TLSPhf-33A">
-        <tags>newtablook</tags>
-        <tags>org.eclipse.e4.primaryDataStack</tags>
-        <tags>EditorStack</tags>
-        <tags>active</tags>
-        <children xsi:type="basic:Part" xmi:id="_ouPnoNbSEea0TLSPhf-33A" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="index.html" iconURI="platform:/plugin/com.aptana.editor.html/icons/html.png" tooltip="C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\index.html" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.aptana.editor.html&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/index.html&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;13382&quot; selectionTopPixel=&quot;4829&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>com.aptana.editor.html</tags>
-          <tags>removeOnHide</tags>
+    <sharedElements xsi:type="advanced:Area" xmi:id="_kM-b4NbSEea0TLSPhf-33A" elementId="org.eclipse.ui.editorss" selectedElement="_2Z7fsNtgEeaEGMQmOZ9gYQ">
+      <children xsi:type="basic:PartSashContainer" xmi:id="_2Z7fsNtgEeaEGMQmOZ9gYQ" selectedElement="_kM-b4dbSEea0TLSPhf-33A">
+        <children xsi:type="basic:PartStack" xmi:id="_2Z7fsdtgEeaEGMQmOZ9gYQ" elementId="PartStack@fa4ad9" containerData="2742" selectedElement="_a91BkNcbEeaClsDf-sD2WQ">
+          <children xsi:type="basic:Part" xmi:id="_a91BkNcbEeaClsDf-sD2WQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="contact_me.js" iconURI="platform:/plugin/com.aptana.editor.js/icons/js.png" tooltip="C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\js\contact_me.js" closeable="true">
+            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.aptana.editor.js&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/js/contact_me.js&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;264&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+            <tags>Editor</tags>
+            <tags>com.aptana.editor.js</tags>
+            <tags>removeOnHide</tags>
+          </children>
+        </children>
+        <children xsi:type="basic:PartStack" xmi:id="_kM-b4dbSEea0TLSPhf-33A" elementId="org.eclipse.e4.primaryDataStack" containerData="7258" selectedElement="_ouPnoNbSEea0TLSPhf-33A">
+          <tags>newtablook</tags>
+          <tags>org.eclipse.e4.primaryDataStack</tags>
+          <tags>EditorStack</tags>
           <tags>active</tags>
-          <tags>activeOnClose</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_XbnmcNcYEeaClsDf-sD2WQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="freelancer.less" iconURI="platform:/plugin/com.aptana.editor.sass/icons/sass.png" tooltip="C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\less\freelancer.less" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.aptana.editor.sass&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/less/freelancer.less&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;6414&quot; selectionTopPixel=&quot;4776&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>com.aptana.editor.sass</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_X09TgNcYEeaClsDf-sD2WQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="mixins.less" iconURI="platform:/plugin/com.aptana.editor.sass/icons/sass.png" tooltip="C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\less\mixins.less" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.aptana.editor.sass&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/less/mixins.less&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;170&quot; selectionTopPixel=&quot;190&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>com.aptana.editor.sass</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_AHjisNcbEeaClsDf-sD2WQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="variables.less" iconURI="platform:/plugin/com.aptana.editor.sass/icons/sass.png" tooltip="C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\less\variables.less" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.aptana.editor.sass&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/less/variables.less&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>com.aptana.editor.sass</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_a91BkNcbEeaClsDf-sD2WQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="contact_me.js" iconURI="platform:/plugin/com.aptana.editor.js/icons/js.png" tooltip="C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\js\contact_me.js" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.aptana.editor.js&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/js/contact_me.js&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1176&quot; selectionTopPixel=&quot;157&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>com.aptana.editor.js</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_ejcVENjWEeaYHarHAFfUkQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="contact_me.php" iconURI="platform:/plugin/com.aptana.editor.php/icons/full/obj16/php.png" tooltip="C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\mail\contact_me.php" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.aptana.editor.php&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/mail/contact_me.php&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1224&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>com.aptana.editor.php</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_wtBIkNjhEeaYHarHAFfUkQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="jqBootstrapValidation.js" iconURI="platform:/plugin/com.aptana.editor.js/icons/js.png" tooltip="C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\js\jqBootstrapValidation.js" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.aptana.editor.js&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/js/jqBootstrapValidation.js&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>com.aptana.editor.js</tags>
-          <tags>removeOnHide</tags>
+          <children xsi:type="basic:Part" xmi:id="_ouPnoNbSEea0TLSPhf-33A" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="index.html" iconURI="platform:/plugin/com.aptana.editor.html/icons/html.png" tooltip="C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\index.html" closeable="true">
+            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.aptana.editor.html&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/index.html&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;29168&quot; selectionTopPixel=&quot;9832&quot;/>&#xD;&#xA;&lt;/editor>"/>
+            <tags>Editor</tags>
+            <tags>com.aptana.editor.html</tags>
+            <tags>removeOnHide</tags>
+            <tags>active</tags>
+            <tags>activeOnClose</tags>
+          </children>
+          <children xsi:type="basic:Part" xmi:id="_XbnmcNcYEeaClsDf-sD2WQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="freelancer.less" iconURI="platform:/plugin/com.aptana.editor.sass/icons/sass.png" tooltip="C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\less\freelancer.less" closeable="true">
+            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.aptana.editor.sass&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/less/freelancer.less&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;6414&quot; selectionTopPixel=&quot;4776&quot;/>&#xD;&#xA;&lt;/editor>"/>
+            <tags>Editor</tags>
+            <tags>com.aptana.editor.sass</tags>
+            <tags>removeOnHide</tags>
+          </children>
+          <children xsi:type="basic:Part" xmi:id="_X09TgNcYEeaClsDf-sD2WQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="mixins.less" iconURI="platform:/plugin/com.aptana.editor.sass/icons/sass.png" tooltip="C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\less\mixins.less" closeable="true">
+            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.aptana.editor.sass&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/less/mixins.less&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;170&quot; selectionTopPixel=&quot;190&quot;/>&#xD;&#xA;&lt;/editor>"/>
+            <tags>Editor</tags>
+            <tags>com.aptana.editor.sass</tags>
+            <tags>removeOnHide</tags>
+          </children>
+          <children xsi:type="basic:Part" xmi:id="_AHjisNcbEeaClsDf-sD2WQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="variables.less" iconURI="platform:/plugin/com.aptana.editor.sass/icons/sass.png" tooltip="C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\less\variables.less" closeable="true">
+            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.aptana.editor.sass&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/less/variables.less&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+            <tags>Editor</tags>
+            <tags>com.aptana.editor.sass</tags>
+            <tags>removeOnHide</tags>
+          </children>
+          <children xsi:type="basic:Part" xmi:id="_ejcVENjWEeaYHarHAFfUkQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="contact_me.php" iconURI="platform:/plugin/com.aptana.editor.php/icons/full/obj16/php.png" tooltip="C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\mail\contact_me.php" closeable="true">
+            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.aptana.editor.php&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/mail/contact_me.php&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1224&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+            <tags>Editor</tags>
+            <tags>com.aptana.editor.php</tags>
+            <tags>removeOnHide</tags>
+          </children>
+          <children xsi:type="basic:Part" xmi:id="_wtBIkNjhEeaYHarHAFfUkQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="jqBootstrapValidation.js" iconURI="platform:/plugin/com.aptana.editor.js/icons/js.png" tooltip="C:\Users\Krzysztof\Documents\GitHub\afreeq.github.io\js\jqBootstrapValidation.js" closeable="true">
+            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.aptana.editor.js&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Krzysztof/Documents/GitHub/afreeq.github.io/js/jqBootstrapValidation.js&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+            <tags>Editor</tags>
+            <tags>com.aptana.editor.js</tags>
+            <tags>removeOnHide</tags>
+          </children>
+          <children xsi:type="basic:Part" xmi:id="_Qw9lMNteEeaEGMQmOZ9gYQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="contact_me.js" iconURI="platform:/plugin/com.aptana.editor.js/icons/js.png" tooltip="E:\Uchronione przed formatem SSD\Desktop\IX semestr\Aplikacje Internetowe\PRz Aplikacje Internetowe resources\startbootstrap-freelancer-gh-pages\js\contact_me.js" closeable="true">
+            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.aptana.editor.js&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/E:/Uchronione%20przed%20formatem%20SSD/Desktop/IX%20semestr/Aplikacje%20Internetowe/PRz%20Aplikacje%20Internetowe%20resources/startbootstrap-freelancer-gh-pages/js/contact_me.js&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;3056&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;540&quot;/>&#xD;&#xA;&lt;/editor>"/>
+            <tags>Editor</tags>
+            <tags>com.aptana.editor.js</tags>
+            <tags>removeOnHide</tags>
+          </children>
         </children>
       </children>
     </sharedElements>
@@ -227,18 +236,18 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_kH_1QNbSEea0TLSPhf-33A" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_aswJoNjREeaYHarHAFfUkQ" elementId="new.group"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_aswJodjREeaYHarHAFfUkQ" elementId="newWizardDropDown"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_aswJotjREeaYHarHAFfUkQ" elementId="new.ext" visible="false"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_aswJo9jREeaYHarHAFfUkQ" elementId="save.group" visible="false"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_aswJpNjREeaYHarHAFfUkQ" elementId="save"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_aswJpdjREeaYHarHAFfUkQ" elementId="saveAll"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_aswJptjREeaYHarHAFfUkQ" elementId="save.ext" visible="false"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_aswJp9jREeaYHarHAFfUkQ" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.gif" tooltip="Print" command="_j1oS6tbSEea0TLSPhf-33A"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_as56oNjREeaYHarHAFfUkQ" elementId="print.ext" visible="false"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_as56odjREeaYHarHAFfUkQ" elementId="build.group"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_as56otjREeaYHarHAFfUkQ" elementId="build.ext" visible="false"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_as56o9jREeaYHarHAFfUkQ" elementId="additions"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cv78AOMVEeaPBtutpmGb7A" elementId="new.group"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cv78AeMVEeaPBtutpmGb7A" elementId="newWizardDropDown"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cv8jEOMVEeaPBtutpmGb7A" elementId="new.ext" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cv8jEeMVEeaPBtutpmGb7A" elementId="save.group" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cv8jEuMVEeaPBtutpmGb7A" elementId="save"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cv8jE-MVEeaPBtutpmGb7A" elementId="saveAll"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cv8jFOMVEeaPBtutpmGb7A" elementId="save.ext" visible="false"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Cv8jFeMVEeaPBtutpmGb7A" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.gif" tooltip="Print" command="_j1oS6tbSEea0TLSPhf-33A"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cv-_UOMVEeaPBtutpmGb7A" elementId="print.ext" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cv-_UeMVEeaPBtutpmGb7A" elementId="build.group"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cv-_UuMVEeaPBtutpmGb7A" elementId="build.ext" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cv-_U-MVEeaPBtutpmGb7A" elementId="additions"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_kH_1QdbSEea0TLSPhf-33A" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -246,29 +255,29 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_1YtOcNbaEeaou6zn5OD5uw" elementId="org.eclipse.debug.ui.breakpointActionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_au--QNjREeaYHarHAFfUkQ" elementId="breakpointGroup"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_au--QdjREeaYHarHAFfUkQ" elementId="org.eclipse.debug.ui.actions.SkipAllBreakpoints"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_CwgjwOMVEeaPBtutpmGb7A" elementId="breakpointGroup"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_CwgjweMVEeaPBtutpmGb7A" elementId="org.eclipse.debug.ui.actions.SkipAllBreakpoints"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_1Yxf4NbaEeaou6zn5OD5uw" elementId="org.eclipse.search.searchActionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_au--QtjREeaYHarHAFfUkQ" elementId="Search"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_au--Q9jREeaYHarHAFfUkQ" elementId="org.eclipse.search.OpenSearchDialogPage"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_CwgjwuMVEeaPBtutpmGb7A" elementId="Search"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cwgjw-MVEeaPBtutpmGb7A" elementId="org.eclipse.search.OpenSearchDialogPage"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ke8VoNbSEea0TLSPhf-33A" elementId="org.eclipse.debug.ui.launchActionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_au--RNjREeaYHarHAFfUkQ" elementId="debug"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_avIvQNjREeaYHarHAFfUkQ" elementId="com.aptana.js.debug.ui.actions.openURL"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_avIvQdjREeaYHarHAFfUkQ" elementId="com.aptana.js.debug.ui.actions.ToggleBreakpoint"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_avIvQtjREeaYHarHAFfUkQ" elementId="org.eclipse.debug.internal.ui.actions.DebugDropDownAction"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_avIvQ9jREeaYHarHAFfUkQ" elementId="org.eclipse.debug.internal.ui.actions.RunDropDownAction"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_CwgjxOMVEeaPBtutpmGb7A" elementId="debug"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_CwgjxeMVEeaPBtutpmGb7A" elementId="com.aptana.js.debug.ui.actions.openURL"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_CwgjxuMVEeaPBtutpmGb7A" elementId="com.aptana.js.debug.ui.actions.ToggleBreakpoint"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cwgjx-MVEeaPBtutpmGb7A" elementId="org.eclipse.debug.internal.ui.actions.DebugDropDownAction"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_CwgjyOMVEeaPBtutpmGb7A" elementId="org.eclipse.debug.internal.ui.actions.RunDropDownAction"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_kelJQNbSEea0TLSPhf-33A" elementId="org.eclipse.ui.edit.text.actionSet.presentation">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_avIvRNjREeaYHarHAFfUkQ" elementId="Presentation"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_avIvRdjREeaYHarHAFfUkQ" elementId="com.aptana.editor.common.toggleMarkOccurrences"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_avIvRtjREeaYHarHAFfUkQ" elementId="org.eclipse.ui.edit.text.toggleBlockSelectionMode"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_avIvR9jREeaYHarHAFfUkQ" elementId="org.eclipse.ui.edit.text.toggleShowWhitespaceCharacters"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_avIvSNjREeaYHarHAFfUkQ" elementId="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_CwgjyeMVEeaPBtutpmGb7A" elementId="Presentation"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_CwgjyuMVEeaPBtutpmGb7A" elementId="com.aptana.editor.common.toggleMarkOccurrences"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cwgjy-MVEeaPBtutpmGb7A" elementId="org.eclipse.ui.edit.text.toggleBlockSelectionMode"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_CwgjzOMVEeaPBtutpmGb7A" elementId="org.eclipse.ui.edit.text.toggleShowWhitespaceCharacters"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_CwgjzeMVEeaPBtutpmGb7A" elementId="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_kIAcUNbSEea0TLSPhf-33A" elementId="group.nav" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -276,12 +285,12 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_kIBDYNbSEea0TLSPhf-33A" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_as56pNjREeaYHarHAFfUkQ" elementId="history.group"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_as56pdjREeaYHarHAFfUkQ" elementId="group.application" visible="false"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_as56ptjREeaYHarHAFfUkQ" elementId="backardHistory"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_as56p9jREeaYHarHAFfUkQ" elementId="forwardHistory"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_as56qNjREeaYHarHAFfUkQ" elementId="pin.group"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_as56qdjREeaYHarHAFfUkQ" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.gif" tooltip="Pin Editor" enabled="false" command="_j1l2rdbSEea0TLSPhf-33A"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cv-_VOMVEeaPBtutpmGb7A" elementId="history.group"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cv-_VeMVEeaPBtutpmGb7A" elementId="group.application" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cv-_VuMVEeaPBtutpmGb7A" elementId="backardHistory"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cv-_V-MVEeaPBtutpmGb7A" elementId="forwardHistory"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cv-_WOMVEeaPBtutpmGb7A" elementId="pin.group"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Cv-_WeMVEeaPBtutpmGb7A" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.gif" tooltip="Pin Editor" enabled="false" command="_j1l2rdbSEea0TLSPhf-33A"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_kIBDYdbSEea0TLSPhf-33A" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -293,8 +302,8 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_kIBqctbSEea0TLSPhf-33A" elementId="org.eclipse.ui.workbench.help">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_as56qtjREeaYHarHAFfUkQ" elementId="group.help"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_as56q9jREeaYHarHAFfUkQ" elementId="group.application" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cv_mYOMVEeaPBtutpmGb7A" elementId="group.help"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_Cv_mYeMVEeaPBtutpmGb7A" elementId="group.application" visible="false"/>
       </children>
       <children xsi:type="menu:ToolControl" xmi:id="_kJzzINbSEea0TLSPhf-33A" elementId="PerspectiveSpacer" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
         <tags>stretch</tags>
