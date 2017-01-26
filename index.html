@@ -74,9 +74,9 @@
     <!-- Header -->
     <header>
     	<div class="bcg"
-   	   	data-center="background-position: 50% 10px;" 
-			data-top-bottom="background-position: 50% -100px;" 
-			data-bottom-top="background-position: 50% 100px;" 
+   	   	data-center="background-position: 50% -400px;" 
+			
+			data-bottom-top="background-position: 50% 200px;" 
 			data-anchor-target="#page-top" >
         <div class="container">
             <div class="row">
@@ -94,9 +94,14 @@
     </header>    
 
     <!-- About Section -->
-    <section class="about-section" id="about">
+    <section class="about-section" id="about"
+    >
    	
-        <div class="container">        	
+        <div class="container"
+        data-center="opacity: 1"
+    	data-bottom-top="opacity: 0.5"       
+        
+        data-anchor-target="#about">        	
                 <div class="col-lg-12 text-center">
                     <h2>About</h2>
                     <hr/>
@@ -123,7 +128,10 @@
     
 <!-- Skills Section -->
     <section  id="skills">
-        <div class="container">
+        <div class="container"
+        data-center="opacity: 1"
+        data-bottom-top="opacity: 0"
+                data-anchor-target="#skills">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>Skills</h2>
@@ -161,11 +169,16 @@
 <!-- Portfolio Grid Section -->
     <section id="portfolio" class = "portfolio">
     	<div class="bcg"
-   	   	data-center="background-position: 50% 10px;" 
-			data-top-bottom="background-position: 50% -100px;" 
-			data-bottom-top="background-position: 50% 100px;" 
+   	   	
+			data-center="background-position: 50% -100px;" 			
+			data-bottom-top="background-position: 50% 10px;"  
+			
+			data-center="opacity: 1"
+        	data-bottom-top="opacity: 0"
 			data-anchor-target="#portfolio" >
-        <div class="container">
+        <div class="container" 
+        
+    >
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>Portfolio</h2>
@@ -173,7 +186,10 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-4 portfolio-item">
+                <div class="col-sm-4 portfolio-item"  
+                data-top="opacity: 1"
+                data-bottom-top="opacity: 0.5"
+                data-anchor-target="#portfolio">
                 	Scratches  detection algorithm
                     <a href="#portfolioModalScratchDetection" class="portfolio-link" data-toggle="modal"> 
                     	                 	
@@ -192,7 +208,10 @@
                     </a>
                     
                 </div>
-                <div class="col-sm-4 portfolio-item">
+                <div class="col-sm-4 portfolio-item" 
+                data-top="opacity: 1"
+                data-bottom-top="opacity: 0.5"
+                data-anchor-target="#portfolio">
                 	Scepctrophotometery
                     <a href="#portfolioModalSpectro" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
@@ -204,7 +223,10 @@
                         <img src="img/portfolio/Spectroscopy.png" class="img-responsive" alt="">
                     </a>
                 </div>
-                <div class="col-sm-4 portfolio-item">
+                <div class="col-sm-4 portfolio-item"
+                data-top="opacity: 1"
+                data-bottom-top="opacity: 0.5"
+                data-anchor-target="#portfolio">
                 	PCB printer
                     <a href="#portfolioModalDrukarkaPCB" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
@@ -609,9 +631,13 @@
     
     <!-- Skrollr for parallax script-->
     
-    <script src="js/skrollr.js">
-    	    var s = skrollr.init();
-    </script>
+        <!-- Skrollr for parallax script-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="js/skrollr.js"></script>
+<script>var s = skrollr.init({
+    //forceHeight: false
+});</script>
 
 </body>
 
